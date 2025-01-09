@@ -49,4 +49,8 @@ Feel free to use the data in this repository for:
 - **Email:** [rahuldave7795@gmail.com](mailto:rahuldave7795@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/rahuldave7795](https://www.linkedin.com/in/rahuldave7795)
 
-Thank you!
+## Screenshots:
+![1](https://github.com/user-attachments/assets/ab741cc3-51fa-4362-8ac7-898a3a1d9cb0)
+![2](https://github.com/user-attachments/assets/7c2e2f48-ddf6-4704-ad6b-9e2370620289)
+![3](https://github.com/user-attachments/assets/46888162-09d4-4223-952b-911a7309a165)
+
