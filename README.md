@@ -1,6 +1,6 @@
 # AHM-2 Review Meeting - January 2024
 
-This repository contains the presentation for the Ahmedabad 2 Circle Review Meeting held on **January 18, 2023**. The presentation covers key aspects of the NWA analysis and other critical updates for the period.
+This repository contains the presentation for the Ahmedabad 2 Circle Review Meeting. The presentation covers key aspects of the NWA analysis and other critical updates for the period.
 
 ## Project Description
 
