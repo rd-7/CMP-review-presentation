@@ -33,7 +33,7 @@ The presentation provides insights and data regarding:
 ## File Information
 
 - **Filename**: `AHM_Review_Jan24.pptx`
-- **Size**: [Add size after upload]
+- **Size**: 101KB
 
 ## Usage
 
